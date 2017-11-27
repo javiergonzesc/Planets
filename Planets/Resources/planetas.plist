@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	
+	<key>imagenes</key>
+	<array>
+		<string>mercurio</string>
+		<string>marte</string>
+		<string>venus</string>
+		<string>tierra</string>
+		<string>luna</string>
+		<string>jupiter</string>
+		<string>saturno</string>
+		<string>urano</string>
+		<string>neptuno</string>
+	</array>
+	<key>nombres</key>
+	<array>
+		<string>Mercurio</string>
+		<string>Marte</string>
+		<string>Venus</string>
+		<string>La Tierra</string>
+		<string>La Luna</string>
+		<string>Jupiter</string>
+		<string>Saturno</string>
+		<string>Urano</string>
+		<string>Neptuno</string>
+	</array>
+    
+    <key>descripcion</key>
+    <array>
+    <string>Mucho Frio si no te enteras en clase de ciencias</string>
+    <string>Antes viviamos aqui</string>
+    <string>se ve desde la tierra</string>
+    <string>todo lo que se ve desde ella es considerado extraterrestre</string>
+    <string>Mucha gente esta en ella</string>
+    <string>Solo es gas</string>
+    <string>Esta lejos</string>
+    <string>No se si ha alguien le interesa</string>
+    <string>hace mucho frio</string>
+    </array>
+    
+</dict>
+</plist>
